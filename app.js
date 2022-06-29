@@ -1,7 +1,7 @@
 const express = require('express')
 const path = require('path');
 const app = express()
-const PORT = process.env.PORT || 6500
+const PORT = process.env.PORT || 5500
 INFORMATION = []
 const errors = [
 	{status: "error", message: "Неверные данные в форме"}, 
