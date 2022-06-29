@@ -1,0 +1,12 @@
+footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+  }
+  .red_border {
+    border: red 1px solid;
+  }
+  
+  .green_border {
+    border: green 1px solid;
+  }
